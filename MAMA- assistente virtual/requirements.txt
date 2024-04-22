@@ -1,0 +1,15 @@
+# requirements do google
+pyaudio
+nltk
+SpeechRecognition
+
+
+
+# requirements do ibm
+#pyaudio
+#ibm-watson
+#nltk
+
+# outros
+#regex
+#PyGame

@@ -1,0 +1,61 @@
+--------------------------------------------------------------------------------------
+Pequeno Manual de Uso da Assistente Virtual para Cuidado de Idosos - MAMA
+Bem-vindo ao MAMA, sua Assistente Virtual para cuidar dos seus entes queridos idosos de forma eficiente e carinhosa. Abaixo, você encontrará os principais comandos e funcionalidades para aproveitar ao máximo a experiência com o MAMA:
+--------------------------------------------------------------------------------------
+Agendar Consultas e Compromissos:
+Use comandos como "Agendar consulta com o médico" seguido da data e hora desejadas para marcar compromissos médicos.
+Gerenciar Lembretes e Medicamentos:
+A MAMA pode ajudar a lembrar de compromissos importantes e de tomar medicamentos no horário correto. Basta solicitar!
+Conversar e Receber Dicas:
+Interaja com o MAMA para conversar, ouvir histórias ou receber dicas úteis para o dia a dia.
+Solicitar Ajuda em Emergências:
+Em situações de emergência, chame a assistência médica imediatamente usando o comando "Chamar emergência".
+
+Abaixo segue as listas dos comandos para as principais funcionalidades da MAMA:
+
+-------------------------------------------
+          Para agendar consulta
+-------------------------------------------
+1° mama marcar consulta
+2° mama marcar exame
+3° mama marcar médico
+4° mama agendar consulta
+5° mama agendar médico
+6° mama agendar exame
+-------------------------------------------
+          Para agendar lembretes
+-------------------------------------------
+1° mama lembrar remédio
+2° mama lembrar medicamento
+3° mama lembrar lembrete
+4° mama agendar remédio
+5° mama agendar lembrete
+6° mama agendar medicamento
+7° mama marcar remédio
+8° mama marcar lembrete
+9° mama marcar medicamento
+-------------------------------------------
+          Para conversas e dicas
+-------------------------------------------
+1° mama propor história
+2° mama propor dica
+3° mama propor conversa
+4° mama contar história
+5° mama contar dica
+6° mama contar conversa
+-------------------------------------------
+          Para solicitar emergência
+-------------------------------------------
+1° mama solicitar emergência
+2° mama chamar emergência
+
+
+--------------------------------------------------------------------------------------
+Lembre-se de que o MAMA está aqui para ajudar a tornar o cuidado dos idosos mais fácil e eficaz.
+Explore todas as suas funcionalidades e aproveite ao máximo essa ferramenta dedicada ao bem-estar 
+e conforto dos nossos entes queridos.
+
+
+
+
+

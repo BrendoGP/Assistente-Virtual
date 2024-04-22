@@ -1,0 +1,69 @@
+{
+    "nome": "mama",
+    "acoes": [
+         {
+            "nome": "marcar",
+            "objetos": [
+                "consulta",
+                "medico",
+                "exame",
+                "medicamento",
+                "remedio",
+                "lembrete"
+            ]
+        },
+
+        {
+            "nome": "agendar",
+            "objetos": [
+                "consulta",
+                "medico",
+                "exame",
+                "medicamento",
+                "remedio",
+                "lembrete"
+            ]
+        },
+
+        {
+            "nome": "lembrar",
+            "objetos": [
+                "medicamento",
+                "remedio",
+                "lembrete"
+            ]
+        },
+
+        {
+            "nome": "chamar" ,
+            "objetos": [
+                "emergencia"
+            ]    
+        },
+
+        {
+            "nome": "solicitar" ,
+            "objetos": [
+                "emergencia"
+            ]    
+        },
+
+        {
+            "nome": "propor",
+            "objetos": [
+                "historia",
+                "dica",
+                "conversa"
+            ]
+        },
+
+        {
+            "nome": "contar",
+            "objetos": [
+                "historia",
+                "dica",
+                "conversa"
+            ]
+        }
+    ]
+}
